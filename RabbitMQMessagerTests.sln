@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQMessagerTests", "RabbitMQMessagerTests\RabbitMQMessagerTests.csproj", "{43B270C4-9B5E-4CB6-A030-7B063C4093C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendRabbit", "SendRabbit\SendRabbit.csproj", "{59F2A258-8EED-4AEB-8596-1C21521C338D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveRabbit", "ReceiveRabbit\ReceiveRabbit.csproj", "{B76E010B-9CA2-4349-A022-BE0A318397D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B270C4-9B5E-4CB6-A030-7B063C4093C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B270C4-9B5E-4CB6-A030-7B063C4093C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B270C4-9B5E-4CB6-A030-7B063C4093C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B270C4-9B5E-4CB6-A030-7B063C4093C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F2A258-8EED-4AEB-8596-1C21521C338D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F2A258-8EED-4AEB-8596-1C21521C338D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F2A258-8EED-4AEB-8596-1C21521C338D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F2A258-8EED-4AEB-8596-1C21521C338D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76E010B-9CA2-4349-A022-BE0A318397D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76E010B-9CA2-4349-A022-BE0A318397D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76E010B-9CA2-4349-A022-BE0A318397D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76E010B-9CA2-4349-A022-BE0A318397D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
